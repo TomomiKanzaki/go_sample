@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/labstack/echo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/labstack/gommon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/mattn/go-colorable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/mattn/go-isatty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/valyala/fasttemplate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang.org/x/crypto" vcs="Git" />
+  </component>
+</project>
